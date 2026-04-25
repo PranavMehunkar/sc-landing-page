@@ -38,14 +38,14 @@ To run SnapClass locally, follow these steps:
 
 <div class="bg-light p-3 rounded border">
   <pre class="mb-0">
-    <code>git clone https://github.com/yourusername/snapclass.git</code></pre>
+    <code>git clone https://github.com/yourusername/SnapClass-Frontend.git</code></pre>
 </div>
 
 <h3>2. Navigate to the project directory:</h3>
 
 <div class="bg-light p-3 rounded border">
   <pre class="mb-0">
-    <code>cd SnapClass</code></pre>
+    <code>cd SnapClass-Frontend</code></pre>
 </div>
 
 <h3>3. Install the dependencies:</h3>
@@ -71,13 +71,13 @@ Create a .env file in the root directory and configure the following variables:
 
 <div class="bg-light p-3 rounded border">
   <pre class="mb-0">
-    <code>streamlit run app.py</code></pre>
+    <code>python app.py</code></pre>
 </div>
 <h3>6. Open your browser and navigate to:</h3>
 
 <div class="bg-light p-3 rounded border">
   <pre class="mb-0">
-    <code>http://localhost:8501</code></pre>
+    <code>http://127.0.0.1:5002</code></pre>
 </div>
 <h2>Usage</h2>
 Once the application is running, you can:
